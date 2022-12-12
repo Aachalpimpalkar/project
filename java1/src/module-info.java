@@ -5,5 +5,5 @@
  * @author Dell
  *
  */
-module Javaproject {
+module java1 {
 }
