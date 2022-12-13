@@ -1,3 +1,7 @@
+
+//by extending thread class
+
+
 package Multithreading;
 
 
