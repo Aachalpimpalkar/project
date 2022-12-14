@@ -8,7 +8,7 @@ import java.util.ArrayDeque;
 public class Prog3 {
 
 	public static void main(String[] args) {
-		ArrayDeque<String> name=new ArrayDeque <>(); //FIFO
+		ArrayDeque<String> name=new ArrayDeque <>(); 
         name.add("Ritik");
         name.add("tom");
         name.add("jerry");
