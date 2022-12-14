@@ -16,12 +16,12 @@ public class Prog3 {
         name.add("rakhi");
         System.out.println(name);
         
-        name.add("Amruta");
+        name.removeFirst();
         System.out.println(name);
        
         
         
-        name.remove();
+        name.getFirst();
         System.out.println(name);
         
 
